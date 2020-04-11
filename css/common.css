@@ -1,0 +1,58 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	background-color: #f4f4f4;
+}
+a {
+	text-decoration: none;
+	color: #000;
+}
+ul,
+ol,
+dl {
+	list-style: none;
+}
+input {
+	outline: none;
+}
+em,
+i {
+	font-style: normal;
+}
+.clearfix::after {
+	display: block;
+	content: '';
+	clear: both;
+}
+.fl_left {
+	float: left;
+}
+.fl_right {
+	float: right;
+}
+.fixed {
+	position: fixed;
+}
+.abs {
+	position: absolute;
+}
+.rel {
+	position: relative; 
+}
+.hidden {
+	display: none;
+}
+.shortcut_f10215 {
+	color: #f10215 !important;
+}
+.header_e1251B {
+	color: #e1251B !important;
+}
+
+/* 版心 */
+.main {
+	width: 1190px;
+	margin: 0 auto;
+}

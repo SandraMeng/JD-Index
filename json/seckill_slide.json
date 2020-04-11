@@ -1,0 +1,54 @@
+{
+	"slide1":[{
+		"img": "images/seckill1.jpg",
+		"name": "sulam花洒套装淋浴软管 淋浴管 喷淋进水管 300孔增压喷头",
+		"ori_price": "39.00",
+		"now_price": "19.00"
+	}, {
+		"img": "images/seckill2.jpg",
+		"name": "sulam花洒套装淋浴软管 淋浴管 喷淋进水管 300孔增压喷头",
+		"ori_price": "39.00",
+		"now_price": "19.00"
+	},{
+		"img": "images/seckill3.jpg",
+		"name": "sulam花洒套装淋浴软管 淋浴管 喷淋进水管 300孔增压喷头",
+		"ori_price": "39.00",
+		"now_price": "19.00"
+	},{
+		"img": "images/seckill4.jpg",
+		"name": "sulam花洒套装淋浴软管 淋浴管 喷淋进水管 300孔增压喷头",
+		"ori_price": "39.00",
+		"now_price": "19.00"
+	},{
+		"img": "images/seckill5.jpg",
+		"name": "sulam花洒套装淋浴软管 淋浴管 喷淋进水管 300孔增压喷头",
+		"ori_price": "39.00",
+		"now_price": "19.00"
+	},{
+		"img": "images/seckill6.jpg",
+		"name": "sulam花洒套装淋浴软管 淋浴管 喷淋进水管 300孔增压喷头",
+		"ori_price": "39.00",
+		"now_price": "19.00"
+	},{
+		"img": "images/seckill7.jpg",
+		"name": "sulam花洒套装淋浴软管 淋浴管 喷淋进水管 300孔增压喷头",
+		"ori_price": "39.00",
+		"now_price": "19.00"
+	},{
+		"img": "images/seckill8.jpg",
+		"name": "sulam花洒套装淋浴软管 淋浴管 喷淋进水管 300孔增压喷头",
+		"ori_price": "39.00",
+		"now_price": "19.00"
+	}],
+	"slide2": [{
+		"img": "images/seckill_slide1.jpg",
+		"des": "全球居家有范生活",
+		"price": "部分低至5折",
+		"path": "品类秒杀"
+	},{
+		"img": "images/seckill_slide2.jpg",
+		"des": "全球居家有范生活",
+		"price": "部分低至5折",
+		"path": "品类秒杀"
+	}]
+}

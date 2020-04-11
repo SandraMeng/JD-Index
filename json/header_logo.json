@@ -1,0 +1,13 @@
+{
+	"src": "images/header_left.gif",
+	"interval": 3000,
+	"span": {
+		"text": "学习好帮手",
+		"color": "#cc9900"
+	},
+	"p": {
+		"text": "去看看&gt;",
+		"bgc": "#fff",
+		"color": "#cc9900"
+	}
+}

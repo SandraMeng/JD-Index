@@ -1,0 +1,5 @@
+{
+	"bg": "images/nav&seckill_bg.png",
+	"big_slide": ["images/nav_slide1.jpg","images/nav_slide2.jpg","images/nav_slide3.jpg","images/nav_slide4.jpg","images/nav_slide5.jpg","images/nav_slide6.jpg","images/nav_slide7.jpg","images/nav_slide8.jpg"],
+	"small_slide": [["images/nav_smallSlide1.jpg","images/nav_smallSlide2.jpg","images/nav_smallSlide3.jpg"],["images/nav_smallSlide4.jpg","images/nav_smallSlide5.jpg","images/nav_smallSlide6.jpg"],["images/nav_smallSlide7.jpg","images/nav_smallSlide8.jpg","images/nav_smallSlide9.jpg"]]
+}
